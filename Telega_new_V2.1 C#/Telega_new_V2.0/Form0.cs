@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-
+//hjhkhjk
 namespace Telega_new_V2._0
 {
     public partial class Form0 : Form
